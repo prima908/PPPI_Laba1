@@ -8,7 +8,7 @@ do
 {
 		do
 		{
-		cout << "Введите N" << endl;
+		cout << "Введите число N" << endl;
 		cin >> N;
 		}
 		while (N < 0); 	
